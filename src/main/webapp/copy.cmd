@@ -1,0 +1,1 @@
+Xcopy /E /I /Y /Q /C C:\Users\HIdey\quarkus_study\src\main\webapp\build C:\Users\HIdey\quarkus_study\src\main\resources\META-INF\resources
