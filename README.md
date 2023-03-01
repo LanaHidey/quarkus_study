@@ -1,3 +1,4 @@
+![Image alt](https://github.com/LanaHidey/quarkus_study/blob/main/image.JPG)
 # code-with-quarkus
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
